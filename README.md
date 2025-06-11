@@ -14,16 +14,20 @@ A GPU-powered, real-time fractal renderer using nested Mandelbrot iteration
 
 ### 1,000 (Kilobrot)
 ![image](https://github.com/user-attachments/assets/8fcc9332-c012-46ea-bf5a-ffdf556bd0bf)
+
 <br>
 <br>
 <br>
+
 ## Built With
 - **LWJGL 3** OpenGL bindings in Java
 - **GLSL** Real-time pixel calc.
 - **Java 17** backend management
+
 <br>
 <br>
 <br>
+
 ## How it works
 
 ### Equation
