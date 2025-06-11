@@ -1,11 +1,13 @@
 package com.inception;
 
-public class Main {
+public class Main 
+{
     private final Window window;
     private final Shader shader;
     private final Quad quad;
 
-    public Main() {
+    public Main() 
+    {
         window = new Window("Nested Mandelbrot Set");
         window.create();
 
@@ -23,7 +25,8 @@ public class Main {
         window.destroy();
     }
 
-    private void loop() {
+    private void loop() 
+    {
         while (!window.shouldClose()) 
         {
             window.clear();
@@ -42,7 +45,8 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         new Main();
     }
 }
