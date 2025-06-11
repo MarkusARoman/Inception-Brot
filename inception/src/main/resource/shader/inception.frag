@@ -42,7 +42,7 @@ void main()
             z = vec2(x, y);
 
             // Escape condition: If magnitude exceeds 2
-            // mag>=2 always excapes to infinity.
+            // mag>=2 always escapes to infinity.
             float mag2 = dot(z, z);
             if (mag2 > 4.0) {
                 // Smooth iter count for gradients
