@@ -26,7 +26,6 @@ A GPU-powered, real-time fractal renderer using nested Mandelbrot iteration
 
 <br>
 <br>
-<br>
 
 ## How it works
 
@@ -57,3 +56,12 @@ vec3 getColor(float d) {
 
 ## License
 MIT License. Feel free to use and modify for personal or academic projects. Attribution appreciated!
+
+<br>
+<br>
+
+## Acknowledgments
+
+### Inspired by
+- The classic Mandelbrot set
+- Generative visual art
